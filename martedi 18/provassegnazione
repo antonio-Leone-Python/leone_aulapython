@@ -1,0 +1,4 @@
+x=50.2
+print(x)
+x=50
+print(x)

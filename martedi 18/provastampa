@@ -1,0 +1,6 @@
+eta=25
+nome='giulia'
+
+
+
+print("mi chiamo",nome,)

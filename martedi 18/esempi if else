@@ -1,0 +1,9 @@
+x=10
+
+if(x<0)
+    sprint("vai avanti")
+elif(x>0){
+    print("bravissimo")
+}    
+
+else: print("urbgkj")

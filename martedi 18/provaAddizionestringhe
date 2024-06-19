@@ -1,0 +1,4 @@
+name='giulia'
+nascita='200'
+
+print(name+"sono del"+nascita)

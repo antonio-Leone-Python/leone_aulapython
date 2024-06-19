@@ -1,0 +1,7 @@
+x='ciao'
+
+print(x.upper())
+
+x='CIAO'
+
+print(x.lower())
